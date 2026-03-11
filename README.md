@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrupamdas&label=Profile%20views&color=0e75b6&style=flat" alt="mrupamdas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrupamdas" alt="mrupamdas" /></a> </p>
-
 - 🌱 I’m currently learning **Kubernetes Administration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrupamdas](https://github.com/mrupamdas)
