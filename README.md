@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **cloud concepts,devops,docker,kubernetes,python**
 
-- 📫 How to reach me **dasmrupam@gmail.com**
+- 📫 How to reach me **mrupamkumardas@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1isdKOUMrzGphhoH55wXCHCkWacizi0rT/view?usp=drive_link](https://drive.google.com/file/d/1isdKOUMrzGphhoH55wXCHCkWacizi0rT/view?usp=drive_link)
 
